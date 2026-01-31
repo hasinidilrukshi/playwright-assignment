@@ -1,7 +1,7 @@
 # **Playwright Automation Assignment**
 Playwright Automation Assignment
 
-Student Name: Hasini Dilrukshi
+Student Name: Hasini Dilrukshi/n
 Student ID: IT23281578
 Group: 3
 Session: Weekend Batch
