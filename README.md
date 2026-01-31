@@ -5,7 +5,7 @@ Student Name: Hasini Dilrukshi
 Student ID: IT23281578
 Group: 3
 Session: Weekend Batch
-Course: IT2328 – Automation Testing
+Module: IT3040 – Automation Testing
 Date: 31 Jan 2026
 
 1. Objective
